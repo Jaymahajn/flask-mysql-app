@@ -27,7 +27,7 @@ A simple login and registration system built with Flask and MySQL.
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/flask-mysql-login.git
+git clone https://github.com/yourusername/flask-mysql-login.git](https://github.com/Jaymahajn/flask-mysql-app.git
 cd flask-mysql-login
 ```
 
